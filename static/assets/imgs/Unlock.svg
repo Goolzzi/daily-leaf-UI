@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="16px" viewBox="0 0 12 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Unlock</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Single-Deal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product-details" transform="translate(-660.000000, -356.000000)" fill="#FFFFFF">
+            <g id="Deal-Bank" transform="translate(647.000000, 342.000000)">
+                <g id="Group-4">
+                    <path d="M22.505,21 C23.881,21 25,22.119 25,23.495 L25,25.999 C25,28.205 23.205,30 20.999,30 L16.999,30 C14.794,30 13,28.206 13,26.001 L13,23.491 C13,22.117 14.117,21 15.491,21 L16,21 L16,17 C16,15.346 17.346,14 19,14 C20.654,14 22,15.346 22,17 L22,18 C22,18.552 21.552,19 21,19 C20.448,19 20,18.552 20,18 L20,17 C20,16.449 19.551,16 19,16 C18.449,16 18,16.449 18,17 L18,21 L22.505,21 Z M23,25.999 L23,23.495 C23,23.222 22.778,23 22.505,23 L15.491,23 C15.22,23 15,23.22 15,23.491 L15,26.001 C15,27.103 15.896,28 16.999,28 L20.999,28 C22.103,28 23,27.103 23,25.999 Z M19,24 C19.828,24 20.5,24.672 20.5,25.5 C20.5,26.328 19.828,27 19,27 C18.172,27 17.5,26.328 17.5,25.5 C17.5,24.672 18.172,24 19,24 Z" id="Unlock"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

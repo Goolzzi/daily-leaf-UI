@@ -1,0 +1,29 @@
+{
+  "projectName": "react16-router4-redux-universal",
+  "projectOwner": "imbhargav5",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "imbhargav5",
+      "name": "Bhargav Ponnapalli",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2936644?v=4",
+      "profile": "http://github.com/imbhargav5",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tagraha",
+      "name": "Tirta Nugraha",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3034375?v=4",
+      "profile": "http://www.betotally.com/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
+}

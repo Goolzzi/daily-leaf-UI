@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Single-Deal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product-details" transform="translate(-795.000000, -355.000000)" fill="#FFFFFF">
+            <g id="Deal-Bank-Copy" transform="translate(784.000000, 342.000000)">
+                <g id="Group-4">
+                    <path d="M15.85,15 C14.252,15 13,16.389 13,18.162 C13,20.596 15.251,22.808 18.66,26.156 L18.996,26.521 L19.276,26.213 C22.742,22.814 25,20.6 25,18.162 C25,16.389 23.748,15 22.15,15 C21.262,15 20.377,15.449 19.786,16.2 C19.406,16.682 18.594,16.682 18.214,16.2 C17.622,15.449 16.738,15 15.85,15 L15.85,15 Z M19,29 C18.72,29 18.453,28.883 18.264,28.677 L17.248,27.572 C13.49,23.881 11,21.435 11,18.162 C11,15.268 13.13,13 15.85,13 C16.983,13 18.103,13.421 19,14.16 C19.897,13.421 21.017,13 22.15,13 C24.87,13 27,15.268 27,18.162 C27,21.44 24.503,23.889 20.723,27.594 L19.739,28.674 C19.549,28.881 19.282,29 19.001,29 L19,29 Z" id="Fill-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
